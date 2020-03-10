@@ -3,3 +3,4 @@ Hi!
 this line is added by Hery
 
 add another line 2
+add another line for conflict
